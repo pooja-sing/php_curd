@@ -80,7 +80,6 @@ if(isset($_GET['insert_message'])){
     <input type="text" class="form-control" id="age" name="age" placeholder="Age">
   </div>
   
-  <button type="submit" class="btn btn-primary">Submit</button>
 
       </div>
       <div class="modal-footer">
